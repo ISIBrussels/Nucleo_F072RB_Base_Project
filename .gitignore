@@ -2,7 +2,8 @@
 # Fichiers compilés
 Debug/
 Release/
-
+# Settings à ignorer (pas tous)
+.settings/language.settings.xml
 
 # ------ gitignore C par défaut (Github Desktop) -----
 # Prerequisites
