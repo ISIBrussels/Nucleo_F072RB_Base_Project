@@ -1,3 +1,10 @@
+# ------- Ajouts spécifiques  -------
+# Fichiers compilés
+Debug/
+Release/
+
+
+# ------ gitignore C par défaut (Github Desktop) -----
 # Prerequisites
 *.d
 
